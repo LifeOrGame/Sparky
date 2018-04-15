@@ -15,3 +15,9 @@
 
 Intermediates/
 ipch/
+/SandboxCS/obj/Debug/SandboxCS.csproj.CoreCompileInputs.cache
+/SandboxCS/obj/Release/SandboxCS.csproj.CoreCompileInputs.cache
+/.vs/slnx.sqlite
+/.vs/Sparky/v15/Browse.VC.opendb
+/.vs/Sparky/v15/Browse.VC.db
+/.vs/ProjectSettings.json
